@@ -9,11 +9,12 @@ a:link {
 a:visited {
 	color: rgb(80,80,80);
 }
-h1 {
-	text-align: center;
+h2 {
+	/*	text-align: left;*/
+	color: rgb(150,150,150);
 }
 h3 {
-	text-align: left;
+/*	text-align: left;*/
 	color: rgb(150,150,150);
 }
 
@@ -38,7 +39,7 @@ p {
 
 .middle {
 	text-align: left;
-	width: 1000px;
+	width: 900px;
 	margin: auto;
 /*	padding-right: 30px;*/
 /*	padding-bottom: 50px;*/
