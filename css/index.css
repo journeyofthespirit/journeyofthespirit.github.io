@@ -12,7 +12,7 @@ a:visited {
 	color: rgb(80,80,80);
 }
 a:hover {
-	text-decoration: underline;
+	text-decoration: none;
 	color: rgb(125,125,125);
 }
 h2 {
