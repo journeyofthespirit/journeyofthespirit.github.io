@@ -10,8 +10,6 @@ $(document).ready(function(){
 				  $("#intro2").load("posts/2.html #intro");
 				  
 				  
-				  $("#title3").load("posts/3.html #title");
-				  $("#title3").attr("href", "posts/3.html");
-				  $("#intro3").load("posts/3.html #intro");
+				 
 				  
 				  });
