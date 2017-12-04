@@ -16,11 +16,12 @@ a:hover {
 	color: rgb(125,125,125);
 }
 h2 {
-	/*	text-align: left;*/
 	color: rgb(150,150,150);
 }
 h3 {
-/*	text-align: left;*/
+	color: rgb(150,150,150);
+}
+h4 {
 	color: rgb(150,150,150);
 }
 

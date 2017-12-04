@@ -1,5 +1,9 @@
 $(document).ready(function(){
 
+				  
+//				  var conTent = $("meta[property='og:description']").attr("content");
+//				  alert(conTent);
+//				  alert($('head meta').get(0));
 //				  var thisUrl = window.location.href;     // Returns full URL
 //				  var fbLink = "https://www.facebook.com/sharer/sharer.php?u=" + thisUrl;
 //
